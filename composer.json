@@ -14,7 +14,7 @@
     ],
     "require": {
         "php": ">=5.4.0",
-        "albertvision/mrest": "dev-master"
+        "albertvision/mrest-framework": "dev-master"
     },
     "support": {
         "email": "me@ygeorgiev.com"
