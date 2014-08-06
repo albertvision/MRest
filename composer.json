@@ -1,6 +1,6 @@
 {
     "name": "albertvision/mrest",
-    "description": "A PHP REST Framework",
+    "description": "A simple PHP REST Framework.",
     "version": "1.0.0",
     "keywords": ["framework", "php", "rest", "mrest"],
     "homepage": "http://mrest.maleeby.com",
@@ -18,10 +18,5 @@
     },
     "support": {
         "email": "me@ygeorgiev.com"
-    },
-    "autoload": {
-        "psr-0": {
-            "Maleeby\\MRest": "src/"
-        }
     }
 }
