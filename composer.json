@@ -1,0 +1,27 @@
+{
+    "name": "albertvision/mrest",
+    "description": "A PHP REST Framework",
+    "version": "1.0.0",
+    "keywords": ["framework", "php", "rest", "mrest"],
+    "homepage": "http://mrest.maleeby.com",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Yasen Georgiev",
+            "email": "me@ygeorgiev.com",
+            "homepage": "http://ygeorgiev.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "albertvision/mrest": "dev-master"
+    },
+    "support": {
+        "email": "me@ygeorgiev.com"
+    },
+    "autoload": {
+        "psr-0": {
+            "Maleeby\\MRest": "src/"
+        }
+    }
+}
